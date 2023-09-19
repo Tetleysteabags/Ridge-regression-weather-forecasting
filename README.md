@@ -1,0 +1,7 @@
+# ML-Weather-forecasting
+Data is sourced from https://www.ncei.noaa.gov/ which is the National Centers for Environmental Information
+
+The model attempts to predict the maximum temperature for a given date using a ridge regression model
+
+The next steps for this model is to also predict minimum temperatures, and then plot the predicted values for both max and min
+
