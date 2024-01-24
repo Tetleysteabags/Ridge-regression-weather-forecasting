@@ -1,4 +1,4 @@
-# ML-Weather-forecasting
+# Ridge Regression-Weather-forecasting
 Data is sourced from https://www.ncei.noaa.gov/ which is the National Centers for Environmental Information
 
 The model attempts to predict the maximum temperature for a given date using a ridge regression model
