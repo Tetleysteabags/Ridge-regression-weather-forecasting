@@ -10,14 +10,7 @@ This script requires the following Python packages:
 pandas
 NumPy
 matplotlib
-seaborn
 statsmodels
 scikit-learn
-shap
-mlflow
-pickle
-pymongo
-secrets
-streamlit
 ```
 
